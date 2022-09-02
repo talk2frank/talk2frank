@@ -1,7 +1,8 @@
-# Frank Kinsey's profile
+# Frank Kinsey
 ## Welcome
+Hi there 👋 and welcome to my GitHub profile, please feel free to get in touch about anything on my profile
 
-### Hi there 👋
+
 - 🌱 I’m currently learning React Native, Firebase, AWS Amplify and other Mobile Application and Cloud related technologies
 - 👨‍🎓 I recently graduated from 
 
