@@ -1,12 +1,14 @@
+# Frank Kinsey's profile
+## Welcome
+
 ### Hi there 👋
+- 🌱 I’m currently learning React Native, Firebase, AWS Amplify and other Mobile Application and Cloud related technologies
+- 👨‍🎓 I recently graduated from 
 
 <!--
 **talk2frank/talk2frank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
