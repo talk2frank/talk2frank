@@ -1,14 +1,21 @@
 # Frank Kinsey
 
 ## Welcome
-<b>Hi there 👋 and welcome to my GitHub profile, sorry it's a little bare at the moment but work is in the pipeline.</b>
+Hi there 👋 and welcome to my GitHub profile 
 
-Every day is a school day 👨‍🎓
+👷Revelopment is still in progress but work is in the pipeline so watch this space 👷
 
-- 🌱 I’m currently learning cross platform and serverless application development using various technologies including React Native, Firebase, AWS Amplify, .Net Maui, Angular and related Mobile Application and Cloud related technologies
+Remember, every day is a school day 👨‍🎓
+
+### A little about me
+- 🏆 my day job involes working in business intellegence/anlytics while I enjoy coding and developing applications in my spare time
+- 🌱 I’ve been coding for about 5 years currently working on cross platform and serverless web/mobile application development using various technologies including React Native, Google Firebase, AWS Amplify, and .Net Maui
 - 👨‍🎓 In summer 2022 I graduated from [Leeds Beckett University](https://www.leedsbeckett.ac.uk/) with a First Class Honours in Digital Technology Solutions [^1]
-- ❔ For more information about me please see my [LinkedIn](https://www.linkedin.com/in/frank-kinsey/)
+
+<details><summary><b>More Information</b></summary>
+For more information about me please see my [LinkedIn](https://www.linkedin.com/in/frank-kinsey/)
 <a href="https://www.linkedin.com/in/frank-kinsey/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="/icons/linkedin.png" height="42"></a>
+</details>
 
 ### Languages and Frameworks
 
@@ -32,7 +39,9 @@ Every day is a school day 👨‍🎓
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img alt="C Sharp" title="C Sharp" src="/icons/csharp.png" height="42"></a>
 <a href="https://www.java.com/en/" target="_blank"><img alt="Java" title="Java" src="/icons/java.png" height="42"></a>
 <a href="https://learn.microsoft.com/en-us/sql" target="_blank"><img alt="MSsql" title="MSsql" src="/icons/mssql.png" height="42"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img alt="Postgre" title="Postgre" src="/icons/postgre.png" height="42"></a>
 <a href="https://www.json.org/json-en.html" target="_blank"><img alt="JSON" title="JSON" src="/icons/json.png" height="42"></a>
+<a href="https://apex.oracle.com/en/" target="_blank"><img alt="Oracle Apex" title="Oracle Apex" src="/icons/apex.png" height="42"></a>
 
 ### IDEs, Environments and Tools
 
@@ -43,18 +52,11 @@ Every day is a school day 👨‍🎓
 <a href="https://www.eclipse.org/ide/" target="_blank"><img alt="Eclipse IDE" title="Eclipse" src="/icons/eclipse.png" height="42"></a>
 <a href="https://learn.microsoft.com/en-us/sql/ssms" target="_blank"><img alt="SSMS" title="SSMS" src="/icons/mssql.png" height="42"></a>
 <a href="https://azure.microsoft.com/en-us/solutions/devops/" target="_blank"><img alt="Azure Dev Ops" title="Azure Dev Ops" src="/icons/azuredevops.png" height="42"></a>
+<a href="https://www.figma.com/" target="_blank"><img alt="Figma" title="Figma" src="/icons/figma.png" height="42"></a>
 
 
 [^1]: Graduated summer 2022 First with Honours
 
 <!-- commented out code
 **talk2frank/talk2frank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
