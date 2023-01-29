@@ -42,6 +42,8 @@ For more information about me please see my [LinkedIn](https://www.linkedin.com/
 <a href="https://www.postgresql.org/" target="_blank"><img alt="Postgre" title="Postgre" src="/icons/postgre.png" height="42"></a>
 <a href="https://www.json.org/json-en.html" target="_blank"><img alt="JSON" title="JSON" src="/icons/json.png" height="42"></a>
 <a href="https://apex.oracle.com/en/" target="_blank"><img alt="Oracle Apex" title="Oracle Apex" src="/icons/apex.png" height="42"></a>
+<a href="https://powerapps.microsoft.com/" target="_blank"><img alt="Power Apps" title="Power Apps" src="/icons/powerapps.png" height="42"></a>
+<a href="https://powerautomate.microsoft.com/" target="_blank"><img alt="Power Automate" title="Power Automate" src="/icons/powerautomate.png" height="42"></a>
 
 ### IDEs, Environments and Tools
 
