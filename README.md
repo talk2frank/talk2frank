@@ -20,6 +20,7 @@ Every day is a school day 👨‍🎓
 <a href="https://azure.microsoft.com/" target="_blank"><img alt="Azure" title="Azure" src="/icons/azure.png" height="42"></a>
 <a href="https://cloud.google.com/" target="_blank"><img alt="Google Cloud Platform" title="Google Cloud Platform" src="/icons/gcp.png" height="42"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" title="JavaScript" src="/icons/javascript.png" height="42"></a>
+<a href="https://redux.js.org/" target="_blank"><img alt="Redux" title="Redux" src="/icons/redux.png" height="42"></a>
 <a href="https://en.wikipedia.org/wiki/ECMAScript" target="_blank"><img alt="ECMAscript" title="ECMAscript" src="/icons/ecmascript.png" height="42"></a>
 <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript" title="TypeScript" src="/icons/typescript.png" height="42"></a>
 <a href="https://www.w3.org/Style/CSS/" target="_blank"><img alt="CSS" title="CSS" src="/icons/css.png" height="42"></a>
@@ -27,6 +28,7 @@ Every day is a school day 👨‍🎓
 <a href="https://jquery.com/" target="_blank"><img alt="JQuery" title="JQuery" src="/icons/jquery.png" height="42"></a>
 <a href="https://nestjs.com/" target="_blank"><img alt="Nest" title="Nest" src="/icons/nest.png" height="42"></a>
 <a href="https://nodejs.org/en/" target="_blank"><img alt="Node" title="Node" src="/icons/node.png" height="42"></a>
+<a href="https://www.python.org/" target="_blank"><img alt="Python" title="Python" src="/icons/python.png" height="42"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img alt="C Sharp" title="C Sharp" src="/icons/csharp.png" height="42"></a>
 <a href="https://www.java.com/en/" target="_blank"><img alt="Java" title="Java" src="/icons/java.png" height="42"></a>
 <a href="https://learn.microsoft.com/en-us/sql" target="_blank"><img alt="MSsql" title="MSsql" src="/icons/mssql.png" height="42"></a>
