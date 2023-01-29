@@ -3,7 +3,7 @@
 ## Welcome
 Hi there 👋 and welcome to my GitHub profile 
 
-👷Revelopment is still in progress but work is in the pipeline so watch this space 👷
+👷 Development is still in progress but work is in the pipeline so watch this space 👷
 
 Remember, every day is a school day 👨‍🎓
 
