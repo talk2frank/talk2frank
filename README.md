@@ -41,7 +41,6 @@ For more information about me please see my [LinkedIn](https://www.linkedin.com/
 <a href="https://learn.microsoft.com/en-us/sql" target="_blank"><img alt="MSsql" title="MSsql" src="/icons/mssql.png" height="42"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img alt="Postgre" title="Postgre" src="/icons/postgre.png" height="42"></a>
 <a href="https://www.json.org/json-en.html" target="_blank"><img alt="JSON" title="JSON" src="/icons/json.png" height="42"></a>
-<a href="https://apex.oracle.com/en/" target="_blank"><img alt="Oracle Apex" title="Oracle Apex" src="/icons/apex.png" height="42"></a>
 <a href="https://powerapps.microsoft.com/" target="_blank"><img alt="Power Apps" title="Power Apps" src="/icons/powerapps.png" height="42"></a>
 <a href="https://powerautomate.microsoft.com/" target="_blank"><img alt="Power Automate" title="Power Automate" src="/icons/powerautomate.png" height="42"></a>
 
@@ -55,6 +54,8 @@ For more information about me please see my [LinkedIn](https://www.linkedin.com/
 <a href="https://learn.microsoft.com/en-us/sql/ssms" target="_blank"><img alt="SSMS" title="SSMS" src="/icons/mssql.png" height="42"></a>
 <a href="https://azure.microsoft.com/en-us/solutions/devops/" target="_blank"><img alt="Azure Dev Ops" title="Azure Dev Ops" src="/icons/azuredevops.png" height="42"></a>
 <a href="https://www.figma.com/" target="_blank"><img alt="Figma" title="Figma" src="/icons/figma.png" height="42"></a>
+<a href="https://apex.oracle.com/en/" target="_blank"><img alt="Oracle Apex" title="Oracle Apex" src="/icons/apex.png" height="42"></a>
+<a href="https://bitbucket.org/" target="_blank"><img alt="Bitbucket" title="Bitbucket" src="/icons/bitbucket.png" height="42"></a>
 
 
 [^1]: Graduated summer 2022 First with Honours
