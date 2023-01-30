@@ -1,5 +1,7 @@
 # Frank Kinsey
 
+![FK Animated GiF](/icons/FKgif.gif)
+
 ## Welcome
 Hi there 👋 and welcome to my GitHub profile 
 
@@ -7,15 +9,22 @@ Hi there 👋 and welcome to my GitHub profile
 
 Remember, every day is a school day 👨‍🎓
 
+&nbsp;
+
 ### A little about me
 - 🏆 my day job involes working in business intellegence/anlytics while I enjoy coding and developing applications in my spare time
 - 🌱 I’ve been coding for about 5 years currently working on cross platform and serverless web/mobile application development using various technologies including React Native, Google Firebase, AWS Amplify, and .Net Maui
 - 👨‍🎓 In summer 2022 I graduated from [Leeds Beckett University](https://www.leedsbeckett.ac.uk/) with a First Class Honours in Digital Technology Solutions [^1]
 
+&nbsp;
+
 <details><summary><b>More Information</b></summary>
 For more information about me please see my [LinkedIn](https://www.linkedin.com/in/frank-kinsey/)
 <a href="https://www.linkedin.com/in/frank-kinsey/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="/icons/linkedin.png" height="42"></a>
 </details>
+
+&nbsp;
+&nbsp;
 
 ### Languages and Frameworks
 
@@ -43,6 +52,7 @@ For more information about me please see my [LinkedIn](https://www.linkedin.com/
 <a href="https://www.json.org/json-en.html" target="_blank"><img alt="JSON" title="JSON" src="/icons/json.png" height="42"></a>
 <a href="https://powerapps.microsoft.com/" target="_blank"><img alt="Power Apps" title="Power Apps" src="/icons/powerapps.png" height="42"></a>
 <a href="https://powerautomate.microsoft.com/" target="_blank"><img alt="Power Automate" title="Power Automate" src="/icons/powerautomate.png" height="42"></a>
+
 
 ### IDEs, Environments and Tools
 
