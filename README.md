@@ -19,7 +19,8 @@ Remember, every day is a school day 👨‍🎓
 &nbsp;
 
 <details><summary><b>More Information</b></summary>
-For more information about me please see my [LinkedIn](https://www.linkedin.com/in/frank-kinsey/)
+For more information about me please see my 
+<a href="https://www.linkedin.com/in/frank-kinsey/" target="_blank">Linkedin profile </a>
 <a href="https://www.linkedin.com/in/frank-kinsey/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="/icons/linkedin.png" height="42"></a>
 </details>
 
