@@ -5,16 +5,16 @@
 ## Welcome
 Hi there 👋 and welcome to my GitHub profile 
 
-👷 Development is still in progress but work is in the pipeline so watch this space 👷
+👷This place is always a work in progress so hard hats on at all times 👷
 
 Remember, every day is a school day 👨‍🎓
 
 &nbsp;
 
 ### A little about me
-- 🏆 my day job involes working in business intellegence/anlytics while I enjoy coding and developing applications in my spare time
-- 🌱 I’ve been coding for about 5 years currently working on cross platform and serverless web/mobile application development using various technologies including React Native, Google Firebase, AWS Amplify, and .Net Maui
 - 👨‍🎓 In summer 2022 I graduated from [Leeds Beckett University](https://www.leedsbeckett.ac.uk/) with a First Class Honours in Digital Technology Solutions [^1]
+- 🏆 my day job involes working as an Interaction Designer and often Service Designer, very little coding and more Figma designing and workshopping with varios multi disciplinary teams across Leeds
+- 🌱 I'd call myself an occassional coder, I've completed a few projects including some Windows desktop applicastions (.net, Java, etc) some website work (html, css, react, vite, typescript, javascript etc) some cross platform and serverless web/mobile apps (react native, google Firebase, google authenticate, AWS amplifty, .Net Maui)
 
 &nbsp;
 
