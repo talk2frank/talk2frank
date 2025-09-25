@@ -13,7 +13,7 @@ Remember, every day is a school day 👨‍🎓
 
 ### A little about me
 - 👨‍🎓 In summer 2022 I graduated from [Leeds Beckett University](https://www.leedsbeckett.ac.uk/) with a First Class Honours in Digital Technology Solutions [^1]
-- 🏆 my day job involes working as an Interaction Designer and often Service Designer, very little coding and more Figma designing and workshopping with varios multi disciplinary teams across Leeds
+- 🏆 my day job involes working as an Interaction Designer and often Service Designer, often involving very little coding and lots of Figma designing and orkshopping, with various multi disciplinary teams across Leeds
 - 🌱 I'd call myself an occassional coder, I've completed a few projects including some Windows desktop applicastions (.net, Java, etc) some website work (html, css, react, vite, typescript, javascript etc) some cross platform and serverless web/mobile apps (react native, google Firebase, google authenticate, AWS amplifty, .Net Maui)
 
 &nbsp;
